@@ -14,4 +14,6 @@ AUTHOR: MANGAI
 
 6. adding status
 
+7. adding groups
+
 
