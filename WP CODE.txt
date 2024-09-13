@@ -12,4 +12,6 @@ AUTHOR: MANGAI
 
 5. adding audio call feature
 
+6. adding status
+
 
